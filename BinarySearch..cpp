@@ -19,7 +19,7 @@ int BinarySearch(int arr[],int n,int key){
     return -1;
 }
 
-
+ 
 int main(){
 
     int n ;
