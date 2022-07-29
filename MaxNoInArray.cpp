@@ -17,5 +17,3 @@ int main(){
     cout<<mx<<endl;
 }
 
-// 1 2 3 4 5
-// MX = 1
