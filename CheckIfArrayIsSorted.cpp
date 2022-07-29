@@ -13,7 +13,7 @@ int main(){
             // cout << "sorted" << " ";
         }
         else{
-            checker = false;
+            checker = false; 
             // cout << "not sorted" <<  " ";
             break;
         }
