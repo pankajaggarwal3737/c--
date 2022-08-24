@@ -6,8 +6,8 @@ int main(){
     int n1,n2,n3;
     cin>>n1>>n2>>n3;
 
-    int m1[n1][n2];
-    int m2[n2][n3];
+    int m1[n1][n2];              //note that no. of column of 1st mattrix 
+    int m2[n2][n3];              //should be equal to no. of row of 2nd mattrix!
     
 
     for(int i=0;i<n1;i++){ 
